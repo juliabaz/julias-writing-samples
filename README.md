@@ -1,5 +1,6 @@
 # julias-writing-samples
-A collection of technical writing samples
+
+![Banner](Banner.png)
 
 ## Papers
 
