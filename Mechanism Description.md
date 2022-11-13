@@ -29,4 +29,4 @@ The weight bench is a multi-purpose gym equipment that allows the user to exerci
 
 ### REFERENCES
 1. SB-228, Marcy. "Marcy Multi-Purpose Bench | SB-228". Marcypro, 2018, https://www.marcypro.com/marcy-multi-purpose-bench-sb-228. Accessed 10 Oct 2018. 
-2. Amazon.ca, 2018, https://www.amazon.ca/Multi-purpose-Adjustable-Utility-Workout-SB-228/dp/B00BD6D8YA/ref=lp_2406112011_1_21?s=sports&ie=UTF8&qid=1539128 878&sr=1-21. Accessed 9 Oct 2018.
+2. Amazon.ca, 2018, https://www.amazon.ca/Multi-purpose-Adjustable-Utility-Workout-SB-228/dp/B00BD6D8YA/ref=lp_2406112011_1_21?s=sports&ie=UTF8&qid=1539128878&sr=1-21. Accessed 9 Oct 2018.
