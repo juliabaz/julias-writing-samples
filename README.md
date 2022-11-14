@@ -21,5 +21,7 @@
 | Activity diagram  |[Customized Course Sequence](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Activity%20Diagram_%20Customized%20Course%20Sequence.png)|
 | Class diagram  |[User Subsystem](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Subsystem%201.png)|
 | Class diagram  |[Course Management Subsystem](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Subsystem%202.png)|
+| Sequence diagram  |[Automatic Sequence Scenario](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Automatic%20sequence%20generation%20UC4.png)|
+| Sequence diagram  |[Manual Sequence Scenario](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Manual%20sequence%20User%20case.png)|
 
 
