@@ -10,5 +10,6 @@
 
 ## Unified Modeling Language (UML) diagrams
 
-| Topic             | Title                                      |
+| Type              | Title                                      |
 | :---------------- | ------------------------------------------ | 
+| Use case diagram  | [Student Course Sequence Generator](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Use%20Case%20-%20Sequence%20Generator.png) [Professor Schedule Builder](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/UCDProfessor.png)|
