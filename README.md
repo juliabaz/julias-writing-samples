@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-## Papers
+## Projects
 
 | Topic             | Title                                      |
 | :---------------- | ------------------------------------------ | 
