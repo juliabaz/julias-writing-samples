@@ -13,5 +13,8 @@
 | Type              | Title                                      |
 | :---------------- | ------------------------------------------ | 
 | Use case diagram  | [Student Course Sequence Generator](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Use%20Case%20-%20Sequence%20Generator.png)|
+| Use case diagram  | [Student Schedule Builder](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Schedule%20Generator.png)|
 | Use case diagram  |[Professor Schedule Builder](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/UCDProfessor.png)|
+| Activity diagram  |[Automated Course Sequence](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Activity%20Diagram_%20Automated%20Course%20Sequence.png)|
+| Activity diagram  |[Customized Course Sequence](https://github.com/juliabaz/julias-writing-samples/blob/main/UML%20DIAGRAMS/Activity%20Diagram_%20Customized%20Course%20Sequence.png)|
 
