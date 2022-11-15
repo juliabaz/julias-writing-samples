@@ -9,7 +9,10 @@
 |Technical Writing| [Mechanism Description of Weight Bench](https://github.com/juliabaz/julias-writing-samples/blob/main/Mechanism%20Description.md)|
 |UX/UI Design| [Personal Data Marketplace Case Study](https://kajanthy02.wixsite.com/357-mini-project)|
 
-
+## Software Development Documentation
+| Topic             | Title                                      |
+| :---------------- | ------------------------------------------ | 
+| Vision Document||
 ## Unified Modeling Language (UML) diagrams
 
 | Type              | Title                                      |
