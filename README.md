@@ -12,7 +12,7 @@
 ## Software Development Documentation
 | Topic             | Title                                      |
 | :---------------- | ------------------------------------------ | 
-| Vision Document||
+
 ## Unified Modeling Language (UML) diagrams
 
 | Type              | Title                                      |
