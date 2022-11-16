@@ -10,8 +10,9 @@
 |UX/UI Design| [Personal Data Marketplace Case Study](https://kajanthy02.wixsite.com/357-mini-project)|
 
 ## Software Development Documentation
-| Topic             | Title                                      |
+| Type             | Title                                      |
 | :---------------- | ------------------------------------------ | 
+|Software Systems Requirements Specification|MonTraveller Vision Document|
 
 ## Unified Modeling Language (UML) diagrams
 
