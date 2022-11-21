@@ -12,7 +12,7 @@
 ## Software Development Documentation
 | Type             | Title                                      |
 | :---------------- | ------------------------------------------ | 
-|Software Systems Requirements Specification|MonTraveller Vision Document|
+|Software Systems Requirements Specification|[MonTraveller Vision Document](https://juliabaz.github.io/software-development-documentation/)|
 
 ## Unified Modeling Language (UML) diagrams
 
